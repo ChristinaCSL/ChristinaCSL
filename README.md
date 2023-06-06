@@ -1,6 +1,6 @@
 - Greetings! Christina @ Cing Sian Lian here!
 - Programming enthusiast seeking for more knowledge 
-- Currently learning PHP, Bootstraps, Laravel, Javascript, Vue.js and React.js
+- Currently learning Vue.js and React.js
 - Up for being hired by any softwarehouse
 - 📫 How to reach me:  christina.cingsianlian@gmail.com
 
